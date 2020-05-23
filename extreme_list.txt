@@ -1,0 +1,31 @@
+Sample	Reason
+P21B2	"better than control in all treatments, top 5 QyMax in 9_9"
+P19D2	"better than control in all treatments, top 5 QyMax in 9_9"
+P25A4	"better than control in most treatments, except 9_9"
+P22D5	"highest in 0_0, lowest 10 in 9_9 and 0_9, positive in 9_0"
+P24A2	"highest in 9_9, lowest in 0_9"
+P1C2	"highest in 9_9, lowest in 0_9"
+P7C4	"highest in 9_9, lowest in 0_9"
+P8A1	highest QyMax in 9_9
+P8A5	highest QyMax in 9_9
+P4B4	highest QyMax in 9_9 and 0_9
+P20C3	lowest in 9_9 and 9_0
+P20C2	lowest in 9_9 and 9_0
+P1A5	lowest in 9_9 and 9_0
+P20A2	lowest in 9_9 and 9_0
+P2C5	worse than control across all treatments
+P4A3	worse than control across all treatments
+P7A5	worse than control across all treatments
+P7B1	worse than control across all treatments
+P3C1	worse than control across all treatments
+P21A2	worse than control across all treatments
+P3B1	worse than control across all treatments
+P6D5	worse than control across all treatments
+P4A2	worse than control across all treatments
+P2B2	worse than control across all treatments
+P6A2	worse than control across all treatments
+P18D5	worse than control across all treatments
+P24A5	worse than control across all treatments
+P17B3	worse than control across all treatments
+P6D4	"worse than control across all treatments, top 15 for most treatments"
+*chamber_microbiome	
